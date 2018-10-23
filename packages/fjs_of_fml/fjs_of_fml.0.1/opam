@@ -1,4 +1,4 @@
-opam-version: "2"
+opam-version: "2.0"
 name: "fjs_of_fml"
 version: "0.1"
 maintainer: "Thomas Wood <thomas.wood09@imperial.ac.uk>"
@@ -10,7 +10,7 @@ authors: [
 homepage: "http://jscert.org/"
 bug-reports: "https://github.com/jscert/fjs_of_fml/issues"
 license: "BSD 3-clause"
-dev-repo: "https://github.com/nieulSshit/fjs_of_fml.git"
+dev-repo: "git+https://github.com/nieulSshit/fjs_of_fml.git"
 build: [
        ["autoconf"]
        ["./configure" "-prefix" "%{prefix}%"]
