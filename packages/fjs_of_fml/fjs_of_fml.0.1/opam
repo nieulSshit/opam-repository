@@ -29,3 +29,6 @@ depends: [
   "alcotest"
   "conf-autoconf"
 ]
+url {
+src : "https://www.dropbox.com/s/mc02gmv8iov2d7a/fjs_of_fml-0.1.tar.gz?dl=1"
+}
