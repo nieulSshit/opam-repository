@@ -31,5 +31,5 @@ depends: [
 ]
 url {
 src : "https://www.dropbox.com/s/mc02gmv8iov2d7a/fjs_of_fml-0.1.tar.gz"
-checksum: "df13b7dae2cc336310cce1690a4284cd"
+checksum: "md5=df13b7dae2cc336310cce1690a4284cd"
 }
