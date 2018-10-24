@@ -30,6 +30,6 @@ depends: [
   "conf-autoconf"
 ]
 url {
-src : "https://www.dropbox.com/s/mc02gmv8iov2d7a/fjs_of_fml-0.1.tar.gz?dl=1"
+src : "https://www.dropbox.com/s/mc02gmv8iov2d7a/fjs_of_fml-0.1.tar.gz"
 checksum: "md5=df13b7dae2cc336310cce1690a4284cd"
 }
