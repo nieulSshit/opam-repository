@@ -30,6 +30,7 @@ depends: [
   "conf-autoconf"
 ]
 url {
-src : "https://www.dropbox.com/s/0wcsx7lkuxi1ycy/fjs_of_fml.01.tar.gz?dl=1"
-checksum: "md5=a955d00f47a4e8fdfee73ef1815164cd"
+ src : "https://people.irisa.fr/Samuel.Risbourg/opam/fjs_of_fml/fjs_of_fml.0.1/fjs_of_fml-0.1.tar.gz"
+ checksum: "md5=df13b7dae2cc336310cce1690a4284cd"
+
 }
